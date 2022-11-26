@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathewsams
 - 👀 I’m interested in Web Developemnt
-- 🌱 I’m currently learning Python, React ...
+- 🌱 I’m currently learning GoLang, Python, React ...
 - 📫 How to reach me :- sammathew@outlook.com
 
 <!---
